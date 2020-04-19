@@ -7,7 +7,6 @@ The value of cards two through ten is their pip value (2 through 10). Face cards
 The dealer plays hard seventeen strategy - must hit until the cards total up to 17 points. At 17 points or higher, the dealer must stay.
 
 You are betting that you have a better hand than the dealer. The better hand is the hand where the sum of the card values is closer to 21 without exceeding 21. The detailed outcome of the hand follows:
-
  - If the player is dealt an Ace and a ten-value card, and the dealer does not, the player wins and receives a bonus. 
  - If the player exceeds a sum of 21 ("busts") and dealer has 21 or less - the player loses. 
  - If the dealer exceeds 21 ("busts") and the player does not; the player wins. 
