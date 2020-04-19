@@ -15,6 +15,7 @@ You are betting that you have a better hand than the dealer. The better hand is 
  - If the player is dealt an Ace and a ten-value card, and the dealer does not, the player wins and receives a bonus. 
  
  After receiving an initial two cards, the player has up to four standard options: "hit", "stay", "double", or "split".  
- - Hit: Take another card from the dealer.  Stay: Take no more cards.  
+ - Hit: Take another card from the dealer.  
+ - Stay: Take no more cards.  
  - Double: The player is allowed to increase the initial bet by 100% in exchange for committing to stand after receiving exactly one more card. The option is avalible only when the player has two cards.  
  - Split: If the first two cards of a hand have the same value, the player can split them into two hands, separates the two cards and draws an additional card on each, placing one bet with each hand. The player then plays out the two separate hands in turn. They are treated as independent new hands, with the player winning or losing their wager separately for each hand. In the case of ten-valued cards, player is allowed splitting only when the cards have identical ranks; for instance, a hand of 10-10 may be split, but not one of 10-king.
